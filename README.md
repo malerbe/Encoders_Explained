@@ -13,3 +13,12 @@ You will find:
 2. A Mini-project folder in which you will find a code and a cleaner code for the implemenation of the encoder which can be called directly like a library
 
 
+# References
+
+## 📜 **Original Paper**
+- Vaswani, A., et al. (2017). "Attention Is All You Need". *arXiv:1706.03762*. [[Paper]](https://arxiv.org/abs/1706.03762)
+
+## 🎥 **Video Resources**
+- Hugging Face. (2022). "Transformer: encoder". [[YouTube]](https://www.youtube.com/watch?v=MUqNwgPjJvQ)
+- Machine Learning Studio. "A Dive Into Multihead Attention, Self-Attention and Cross-Attention". [[YouTube]](https://www.youtube.com/watch?v=mmzRYGCfTzc)
+- Machine Learning Studio. "Self-Attention Using Scaled Dot-Product Approach". [[YouTube]](https://youtu.be/1IKrHh2X0F0?si=fQozjbfBRPw7J9p9)
