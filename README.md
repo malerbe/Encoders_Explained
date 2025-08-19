@@ -1,4 +1,4 @@
-# Encoders_Explained
+# Encoders Explained
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-red.svg)](https://pytorch.org)
@@ -19,15 +19,15 @@ You will find:
 
 1. A explanations.ipynb notebook in which you will find all the information about encoders and their code implementation.
 
-2. A Mini-project folder in which you will find a code and a cleaner code for the implemenation of the encoder which can be called directly like a library
+2. A mini-project folder in which you will find a code and a cleaner code for the implemenation of the encoder which can be called directly like a library
 
 
 # References
 
-## 📜 **Original Paper**
+## **Original Paper**
 - Vaswani, A., et al. (2017). "Attention Is All You Need". *arXiv:1706.03762*. [[Paper]](https://arxiv.org/abs/1706.03762)
 
-## 🎥 **Video Resources**
+## **Video Resources**
 - Hugging Face. (2022). "Transformer: encoder". [[YouTube]](https://www.youtube.com/watch?v=MUqNwgPjJvQ)
 - Machine Learning Studio. "A Dive Into Multihead Attention, Self-Attention and Cross-Attention". [[YouTube]](https://www.youtube.com/watch?v=mmzRYGCfTzc)
 - Machine Learning Studio. "Self-Attention Using Scaled Dot-Product Approach". [[YouTube]](https://youtu.be/1IKrHh2X0F0?si=fQozjbfBRPw7J9p9)
