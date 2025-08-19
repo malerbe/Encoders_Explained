@@ -1,13 +1,13 @@
 # Encoders_Explained
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-red.svg)](https://pytorch.org)
+
 <p align="center">
-  <img src="ressources/encoder.png" alt="Encoder diagram" width="500"/>
+  <img src="ressources/encoder.png" alt="Encoder diagram" width="250"/>
   <br>
   <em>Understand the transformer architecture by learning about encoders with detailed explanations on the architecture and a mini-project</em>
 </p>
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-red.svg)](https://pytorch.org)
 
 
 # How to use
