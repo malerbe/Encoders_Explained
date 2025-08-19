@@ -6,8 +6,9 @@
 <p align="center">
   <img src="ressources/encoder.png" alt="Encoder diagram" width="250"/>
   <br>
-  <em>Understand the transformer architecture by learning about encoders with detailed explanations on the architecture and a mini-project</em>
 </p>
+
+Understand the transformer architecture by learning about encoders with detailed explanations on the architecture and a mini-project
 
 
 # How to use
