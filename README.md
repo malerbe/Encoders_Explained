@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-red.svg)](https://pytorch.org)
 
 <p align="center">
-  <img src="ressources/encoder.png" alt="Encoder diagram" width="250"/>
+  <img src="ressources/encoder.png" alt="Encoder diagram" width="200"/>
   <br>
 </p>
 
