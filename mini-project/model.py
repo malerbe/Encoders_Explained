@@ -36,6 +36,8 @@ class SelfAttention(nn.Module):
         self.K = nn.Linear(embed_dim, embed_dim, bias=False)
         self.Q = nn.Linear(embed_dim, embed_dim, bias=False)
 
+        self.fc_out = nn.Linear(num_heads * self.head_dim, embed_dim)
+        
     def forward(self,
                 query,
                 keys,
